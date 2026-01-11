@@ -138,7 +138,7 @@ $$\text{Hippocampus: } \int y_x \,dt + \epsilon_x \,t + C_x$$
 **0. State**
 **1. Trajectory + Perturbation ($\epsilon$)**
 **2. Velocity**
-**3. Acceleration**
+**3. Acceleration + Damper ($z$)**
 **4. Memory**
 
 ---
