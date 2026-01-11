@@ -39,6 +39,11 @@ This explains why transfer learning works: syntactic structure already encodes t
 - Global attractors emerge **without global knowledge**
 - Meaning is *retrospective*—you can only know the river by being the raindrop that already reached the sea
 
+## {#back-to-text}
+
+[→ jump to Jobs on connecting the dots](#jobs-dots)
+
+
 This resolves the tension between:
 - **Micro**: SGD on individual parameters (the raindrop)
 - **Macro**: Emergent behavior/meaning (the river you didn't know you were tracing)
@@ -644,7 +649,27 @@ Optimization is local.
 Meaning is retrospective.      
 Convergence is emergent.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UF8uR6Z6KLc?start=30" title="Steve Jobs — Stanford Commencement Address (start at 00:30)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Jobs on connecting the dots {#jobs-dots}
+
+[↩ back to earlier text](#back-to-text)
+
+
+<div style="max-width: 720px; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      src="https://www.youtube.com/embed/UF8uR6Z6KLc?start=45"
+      title="Steve Jobs — Stanford Commencement Address (start at 00:45)"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    ></iframe>
+  </div>
+
+  <p style="font-size: 0.9rem; color: #555; margin-top: 0.5rem;">
+    <sup>1</sup> The first story is about connecting the dots.
+  </p>
+</div>
 
 The non-ontological parameter, **z**, is the only place intervention is permitted without lying. It does not rewrite the world. It does not redefine the substrate. It merely changes how loudly curvature is felt. A knob, not a law. Interface, not ontology.
 
