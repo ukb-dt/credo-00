@@ -655,19 +655,26 @@ Convergence is emergent.
 
 
 <div style="max-width: 600px; margin: 0 auto;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+
+  <!-- Video wrapper -->
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 0 auto;">
     <iframe
       src="https://www.youtube.com/embed/UF8uR6Z6KLc?start=45"
       title="Steve Jobs — Stanford Commencement Address (start at 00:45)"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
-      style="position: absolute; top: 0; left: 0; width: 65%; height: 65%;"
+      style="position: absolute; top: 0; left: 17.5%; width: 65%; height: 100%;"
     ></iframe>
-    <p style="font-size: 0.9rem; color: #555; margin-top: 0.5rem;">
+  </div>
+
+  <!-- Caption -->
+  <p style="font-size: 0.9rem; color: #555; margin-top: 0.5rem; text-align: center;">
     <sup>1</sup> The first story is about connecting the dots.
   </p>
-  </div>
+
+</div>
+
 
 > *You've gotta trust your gut, destiny, karma, whatever. Because believing that the dots will connect down the road will give you the confidence to follow your heart (the raindrops local conditions $x$), even if it leads you off the well-worn path (small vs. large $z$). [And that will make all the difference](https://www.poetryfoundation.org/poems/44272/the-road-not-taken)*      
 > -Jobs
