@@ -664,12 +664,13 @@ Convergence is emergent.
       allowfullscreen
       style="position: absolute; top: 0; left: 0; width: 65%; height: 65%;"
     ></iframe>
-  </div>
-
-  <p style="font-size: 0.9rem; color: #555; margin-top: 0.5rem;">
+    <p style="font-size: 0.9rem; color: #555; margin-top: 0.5rem;">
     <sup>1</sup> The first story is about connecting the dots.
   </p>
-</div>
+  </div>
+
+> *You've gotta trust your gut, destiny, karma, whatever. Because believing that the dots will connect down the road will give you the confidence to follow your heart (ie the ultimate attractor.. sort of dopamine & salience), even if it leads you off the well-worn path. [And that will make all the difference](https://www.poetryfoundation.org/poems/44272/the-road-not-taken)*      
+> -Jobs
 
 The non-ontological parameter, **z**, is the only place intervention is permitted without lying. It does not rewrite the world. It does not redefine the substrate. It merely changes how loudly curvature is felt. A knob, not a law. Interface, not ontology.
 
