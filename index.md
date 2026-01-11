@@ -654,7 +654,7 @@ Convergence is emergent.
 [↩ back to earlier text](#back-to-text)
 
 
-<div style="max-width: 720px; margin: 0 auto;">
+<div style="max-width: 600px; margin: 0 auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe
       src="https://www.youtube.com/embed/UF8uR6Z6KLc?start=45"
