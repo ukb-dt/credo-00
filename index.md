@@ -39,7 +39,7 @@ This explains why transfer learning works: syntactic structure already encodes t
 - Global attractors emerge **without global knowledge**
 - Meaning is *retrospective*—you can only know the river by being the raindrop that already reached the sea
 
-## {#back-to-text}
+## *Ukubona* (5/5 stack) is Retrospective {#back-to-text}
 
 [→ jump to Jobs on connecting the dots](#jobs-dots)
 
