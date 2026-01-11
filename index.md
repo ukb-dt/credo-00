@@ -646,7 +646,7 @@ And yet—rivers exist.
 That paradox dissolves once you accept the operating rule:
 
 Optimization is local.   
-Meaning is retrospective.      
+Meaning is retrospective (*Ukubona*).      
 Convergence is emergent.
 
 ## Jobs on connecting the dots {#jobs-dots}
