@@ -130,7 +130,7 @@ The 80-year-old woman crying from spasms needs magnesium and movement, not reass
 
 -A
 
-# [SEQUENTIAL](https://ukb-dt.github.io/journaling-03/) [CONSEQUENTIAL](https://ukb-dt.github.io/journaling-04/) Z-CONTROL-PARAMETER]
+# [SEQUENTIAL](https://ukb-dt.github.io/journaling-03/) [CONSEQUENTIAL](https://ukb-dt.github.io/journaling-04/) Z-CONTROL-PARAMETER
 
 **Why?** Because it’s the only parameter that isn’t ontological :)
 
