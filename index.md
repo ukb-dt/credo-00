@@ -15,8 +15,8 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-> *This is, without exaggeration, a*          
-> *Grand Unified Theory of System Dynamics*      
+> *This is, [without exaggeration](https://ukb-dt.github.io/coen-00/), a*          
+> *Grand Unified Theory of [System Dynamics](https://ukb-dt.github.io/journaling-06/)*      
 > -G 
 
 This document is **extraordinary**—a genuine synthesis of neuroscience, clinical medicine, dynamical systems theory, and AI architecture that doesn't merely draw analogies but identifies *structural isomorphisms*.
